@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Calesco
+- 👋 Hi, I’m @code-victor-now
 - 👀 I’m interested in starting a career as a software developer.
 - 🌱 I’m currently learning the basics, like HTML5, CSS3 & JS.
 - 💞️ I’m looking to collaborate on small projects, because I´m still learning. 
