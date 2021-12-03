@@ -1,0 +1,20 @@
+#-------------------------------------------------------------------------------
+# Name:        Python Basics
+# Purpose:     Seconds to hours converter. How to use modulus
+#
+# Author:      Victor Calesco
+#
+# Created:     03/12/2021
+# Copyright:   (c) Victor 2021
+# Licence:     <CC>
+#-------------------------------------------------------------------------------
+
+
+
+total_secs = int(input("How many seconds in total?"))
+hours = total_secs // 3600
+secs_still_remaining = total_secs % 3600
+minutes = secs_still_remaining // 60
+secs_finally_remaining = total_secs % 60
+
+print("H=", hours, "M=", minutes, "S=", secs_finally_remaining)
