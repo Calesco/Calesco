@@ -1,0 +1,55 @@
+#-------------------------------------------------------------------------------
+# Name:        Python Basics
+# Purpose:     Learning the basics of Python using the interactive e-book 
+#              "How to Think Like a Computer Scientist" by Peter Wentworth, 
+#              Jeffrey Elkner, Allen B. Downey, and Chris Meyers
+#
+# Author:      Victor Calesco
+#
+# Created:     02/12/2021
+# Copyright:   (c) Victor 2021
+# Licence:     <CC>
+#-------------------------------------------------------------------------------
+
+
+# - Day 1 of learning
+#-------------------------------------------------------------------------------
+# Three different ways to compute the area of a circle using input from the user
+
+# First, 4 lines
+
+response = input("What is your radius?")
+r = float(response)
+area = 3.1416 * r**2
+print ("The area is", area)
+
+# Second, 2 lines
+
+r = float( input("What is your radius ?"))
+print("The area of the circle is ", 3.1416 * r**2)
+
+# Third, 1 line
+
+print("The area is ", 3.14 *float(input("What is your radius ?"))**2)
+#-------------------------------------------------------------------------------
+
+#-------------------------------------------------------------------------------
+# Name:        Python Basics
+# Purpose:     Seconds to hours converter. How to use modulus
+#
+# Author:      Victor Calesco
+#
+# Created:     03/12/2021
+# Copyright:   (c) Victor 2021
+# Licence:     <CC>
+#-------------------------------------------------------------------------------
+
+
+
+total_secs = int(input("How many seconds, in total?"))
+hours = total_secs // 3600
+secs_still_remaining = total_secs % 3600
+minutes = secs_still_remaining // 60
+secs_finally_remaining = total_secs % 60
+
+print("H=", hours, "M=", minutes, "S=", secs_finally_remaining)
