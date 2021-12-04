@@ -92,6 +92,7 @@ print("Final Amount = ", float(P*(1 + r/n)**(n*t)))
 #-------------------------------------------------------------------------------
 
 
+#-------------------------------------------------------------------------------
 # Exercise 6
 # Evaluate the following numerical expressions in your head, then use the
 # Python interpreter to check your results:
@@ -106,4 +107,24 @@ print("Final Amount = ", float(P*(1 + r/n)**(n*t)))
 #
 #-----------------------------------Fin-----------------------------------------
 #-------------------------------------------------------------------------------
+
+
+#-------------------------------------------------------------------------------
+# Exercise 7
+# You look at the clock and it is exactly 2pm. You set an alarm to go off in 
+# 51 hours. At what time does the alarm go off? (Hint: you could count on your 
+# fingers, but this is not what we’re after. If you are tempted to count on your 
+# fingers, change the 51 to 5100.)
+#
+# Days cicled ---> 51 // 24 == 2 days
+# Remainder of hours from cycle ---> 51 % 24 == 3 hours left
+# Alarm goes off at == Remainder hours + time set
+#
+#-----------------------------------Fin-----------------------------------------
+#-------------------------------------------------------------------------------
+
+
+#-------------------------------------------------------------------------------
+
+# Exercise 8
 
