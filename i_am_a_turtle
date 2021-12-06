@@ -1,0 +1,43 @@
+#-------------------------------------------------------------------------------
+# Name:        How to Think Like a Computer Scientist: Learning with Python 3
+# Chapter:     3. Hello, little turtles!
+# Purpose:     I am a Turtle
+#
+# Author:      Victor Calesco
+#
+# Created:     06/12/2021
+# Finished:    xxxxx/12/2021
+#
+# Copyright:   (c) code-victor-now 2021
+# Licence:     <CC>
+#-------------------------------------------------------------------------------
+
+
+import turtle             # Allows us to use turtles
+wn = turtle.Screen()      # Creates a playground for turtles
+alex = turtle.Turtle()    # Create a turtle, assign to alex
+
+alex.forward(50)          # Tell alex to move forward by 50 units
+alex.left(90)             # Tell alex to turn by 90 degrees
+alex.forward(30)          # Complete the second side of a rectangle
+
+wn.mainloop()             # Wait for user to close window
+
+
+
+import turtle
+wn = turtle.Screen()
+wn.bgcolor("lightgreen")      # Set the window background color
+wn.title("Hello, Tess!")      # Set the window title
+
+tess = turtle.Turtle()
+tess.color("blue")            # Tell tess to change her color
+tess.pensize(3)               # Tell tess to set her pen width
+
+tess.forward(50)
+tess.left(120)
+tess.forward(50)
+
+wn.mainloop()
+
+
