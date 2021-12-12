@@ -5,7 +5,8 @@
 - 📫 You can get in contact with me by email: vcalesco@gmail.com
 
 
-![code-victor-now-logo-png-01](https://user-images.githubusercontent.com/8168962/145697160-ab4d7bcf-4f94-45cf-9d7f-798306fd1441.png)
+
+![code-victor-now-logo-png-800](https://user-images.githubusercontent.com/8168962/145697242-560a04a5-6a62-4ddb-b554-389856040461.png)
 
 
 <!---
