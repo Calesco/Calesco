@@ -6,7 +6,7 @@
 
 
 
-![code-victor-now-logo-png-800](https://user-images.githubusercontent.com/8168962/145697242-560a04a5-6a62-4ddb-b554-389856040461.png)
+<p align="center"><img width="300" src="https://user-images.githubusercontent.com/8168962/146066829-1116c9ba-242d-4b0b-91a4-4b01109fc868.png"></p>
 
 
 <!---
