@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m @code-victor-now
-- 👀 I’m interested in starting a career as a Full-Stack Developer.
+- 👀 I’m interested in starting a career as a Software Developer.
 - 🌱 I’m currently learning the basics of GitHub and Programming.
 - 💞️ I’m looking to collaborate on small projects, because I´m still learning. 
 - 📫 You can get in contact with me by email: vcalesco@gmail.com
