@@ -1,6 +1,8 @@
-<p align="left"><img width="250" src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif"></p>
-<p align="center"><img width="250" src="https://user-images.githubusercontent.com/8168962/146066829-1116c9ba-242d-4b0b-91a4-4b01109fc868.png"></p>
 
+<p align="left"><img width="250" src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif"></p>
+--
+<p align="center"><img width="250" src="https://user-images.githubusercontent.com/8168962/146066829-1116c9ba-242d-4b0b-91a4-4b01109fc868.png"></p>
+--
 NOW:
 - 🌱 I’m currently learning Responsive Web Design @freeCodeCamp.
 - 🌱 I’m enroled at the CS50x Computer Science @Harvard and @Edx
