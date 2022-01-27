@@ -32,7 +32,7 @@ BIO:
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-
+<br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=code-victor-now&theme=noctis-minimus&date_format=M%20j%5B%2C%20Y%5D&background=295282&fire=ED870C&ring=EDEDED77&currStreakNum=ED870C&sideNums=ED9D56CB&sideLabels=A8A1FF&currStreakLabel=ED870CD3)](https://git.io/streak-stats)
 
