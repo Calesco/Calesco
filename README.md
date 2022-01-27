@@ -1,11 +1,6 @@
 
 <p align="left"><img width="250" src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif"></p>
-
-__
-
 <p align="center"><img width="250" src="https://user-images.githubusercontent.com/8168962/146066829-1116c9ba-242d-4b0b-91a4-4b01109fc868.png"></p>
-
-__
 
 NOW:
 - 🌱 I’m currently learning Responsive Web Design @freeCodeCamp.
