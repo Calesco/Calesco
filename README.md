@@ -2,8 +2,9 @@
 
 
 - 👋 Hi, I’m @code-victor-now
-- 👀 I’m interested in starting a career as a Software Engineer.
+- 👀 I’m starting a career as a Software Engineer.
 - 🌱 I’m currently learning the basics of GitHub and Programming.
+- ⚙️ I use daily: .php, .js, .html, .css, .svg, .psd, .ai
 - 💞️ I’m looking to collaborate on small projects, because I´m still learning. 
 - 📫 You can get in contact with me by email: vcalesco@gmail.com
 
