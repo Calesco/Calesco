@@ -13,6 +13,8 @@ BIO:
 - 📫 You can get in contact with me by email: vcalesco@gmail.com
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?code-victor-now=DenverCoder1)](https://git.io/streak-stats)
+
 
 <!---
 Calesco/Calesco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
