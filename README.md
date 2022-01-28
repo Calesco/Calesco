@@ -22,7 +22,7 @@ BIO:
 
 
 
-<p align="center"><img src="https://images6.fanpop.com/image/photos/37900000/Akira-gifs-anime-37969592-500-200.gif"></p>
+<p><img src="https://images6.fanpop.com/image/photos/37900000/Akira-gifs-anime-37969592-500-200.gif"></p>
 
 <br>
 
