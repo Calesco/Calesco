@@ -1,4 +1,4 @@
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif"></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif"></p>
 <!-- <p align="left"><img width="250" src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif"></p> -->
 
 <p align="center"><img width="250" src="https://user-images.githubusercontent.com/8168962/146066829-1116c9ba-242d-4b0b-91a4-4b01109fc868.png"></p>
