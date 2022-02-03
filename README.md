@@ -12,7 +12,7 @@ NOW:
 BIO:
 - 👋 Hi, I’m @code-victor-now
 - 👀 I’m starting a career as a Software Engineer.
-- ⚙️ I use daily: .php, .js, .html, .css, .svg, .psd, .ai
+- ⚙️ I use daily: .php, .js, .html, .css, .svg, .py, .ai
 - 💞️ I’m looking to collaborate on small projects, because I´m still learning. 
 - 📫 You can get in contact with me by email: vcalesco@gmail.com
 
