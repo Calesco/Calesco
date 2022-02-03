@@ -5,6 +5,7 @@
 
 
 NOW:
+- 🌱 MBA Candidate in Software Engineering @FIAP
 - 🌱 I’m currently learning Responsive Web Design @freeCodeCamp.
 - 🌱 I’m enroled at the CS50x Computer Science @Harvard and @Edx
 
