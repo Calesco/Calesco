@@ -6,7 +6,7 @@
 
 NOW:
 - 🌱 MBA Candidate in Software Engineering @FIAP
-- 🌱 I’m currently learning Responsive Web Design @Alura.
+- 🌱 I’m currently learning JavaScript Development @Alura.
 
 BIO:
 - 👋 Hi, I’m @code-victor-now
